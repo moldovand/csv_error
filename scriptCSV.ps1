@@ -3,7 +3,7 @@
 
 # List of CSV files to open (in the same folder as the Pwsh script)
 $CSV_ORIG_path = ".\CSV_ORIG\"
-$CSV_ERR_path = ".\CSV_ERR3\"
+$CSV_ERR_path = ".\CSV_ERR\"
 $files = "Janus-17253.csv","Janus-17254.csv","Janus-17255.csv","Janus-17256.csv"
 
 # List of errors to extract
