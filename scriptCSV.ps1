@@ -7,7 +7,8 @@ $CSV_ERR_path = ".\CSV_ERR\"
 $files = "Janus-17253.csv","Janus-17254.csv","Janus-17255.csv","Janus-17256.csv"
 
 # List of errors to extract
-$errors = "65","66","119","122","271","313"
+# $errors = "65","66","119","122","271","313"
+$errors = "66"
 
 # The loop for each file in the list
 foreach ($path in $files)
@@ -27,7 +28,7 @@ foreach ($path in $files)
 
         # Save the result for each error in its own file
         $CSV_file2 = $CSV_ERR_path+$path+"_Error_"+$error+".csv"
-        $A | Where-Object -Property ErrorCode -Like $error | select ErrorCode, ErrorText | Export-Csv -Path $CSV_file2 -Delimiter ';' -NoTypeInformation
+        $A | Where-Object -Property ErrorCode -Like $error | select ErrorCode, ErrorText, TestDatetime | Export-Csv -Path $CSV_file2 -Delimiter ';' -NoTypeInformation
     }
 
 }

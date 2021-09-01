@@ -1,0 +1,20 @@
+ErrorCode;ErrorText;;;;;;;
+66;Move Error on Tips:               8  Move Tips Back?    ;;;;;;Row Labels;Count of ErrorText
+66;Move Error on Tips:               8  Move Tips Back?    ;;;;;;Move Error on Tips:               8  Move Tips Back?    ;4
+66;Move Error on Tips: 1                Move Tips Back?    ;;;;;;Move Error on Tips:       4          Move Tips Back?    ;1
+66;Move Error on Tips: 1                Move Tips Back?    ;;;;;;Move Error on Tips:       4 5 6      Move Tips Back?    ;1
+66;Move Error on Tips:               8  Move Tips Back?    ;;;;;;Move Error on Tips:     3            Move Tips Back?    ;2
+66;Move Error on Tips:               8  Move Tips Back?    ;;;;;;Move Error on Tips: 1                Move Tips Back?    ;2
+66;Move Error on Tips:     3            Move Tips Back?    ;;;;;;(blank);
+66;Move Error on Tips:       4          Move Tips Back?    ;;;;;;Grand Total;10
+66;Move Error on Tips:     3            Move Tips Back?    ;;;;;;;
+66;Move Error on Tips:       4 5 6      Move Tips Back?    ;;;;;;;
+;;;;;;;;
+;;;Row Labels;Count of ErrorText;;;;
+;;;Move Error on Tips:               8  Move Tips Back?    ;4;;;;
+;;;Move Error on Tips:       4          Move Tips Back?    ;1;;;;
+;;;Move Error on Tips:       4 5 6      Move Tips Back?    ;1;;;;
+;;;Move Error on Tips:     3            Move Tips Back?    ;2;;;;
+;;;Move Error on Tips: 1                Move Tips Back?    ;2;;;;
+;;;(blank);;;;;
+;;;Grand Total;10;;;;
