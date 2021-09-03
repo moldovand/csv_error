@@ -1,0 +1,929 @@
+ErrorCode;ErrorText;TestDateTime;;;;;
+271;Bar code read failure at lane 1, position 2.    ;5/19/2021 8:54:57 PM;;;;Row Labels;Count of ErrorText
+271;Bar code read failure at lane 4, position 1.    ;04/12/2021 17:20;;;;Bar code read failure at lane 1, position 13.    ;1
+271;Bar code read failure at lane 5, position 6.    ;5/19/2021 8:54:57 PM;;;;Bar code read failure at lane 1, position 14.    ;2
+271;Bar code read failure at lane 5, position 8.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 1, position 15.    ;2
+271;Bar code read failure at lane 4, position 14.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 1, position 16.    ;1
+271;Bar code read failure at lane 6, position 2.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 1, position 2.    ;1
+271;Bar code read failure at lane 3, position 13.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 1, position 4.    ;1
+271;Bar code read failure at lane 1, position 15.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 1, position 9.    ;1
+271;Bar code read failure at lane 5, position 16.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 2, position 1.    ;1
+271;Bar code read failure at lane 5, position 5.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 2, position 12.    ;1
+271;Bar code read failure at lane 5, position 10.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 2, position 2.    ;1
+271;Bar code read failure at lane 5, position 7.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 2, position 8.    ;1
+271;Bar code read failure at lane 4, position 12.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 3, position 1.    ;1
+271;Bar code read failure at lane 5, position 15.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 3, position 10.    ;1
+271;Bar code read failure at lane 5, position 11.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 3, position 11.    ;1
+271;Bar code read failure at lane 4, position 7.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 3, position 12.    ;1
+271;Bar code read failure at lane 1, position 14.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 3, position 13.    ;1
+271;Bar code read failure at lane 3, position 4.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 3, position 2.    ;1
+271;Bar code read failure at lane 2, position 1.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 3, position 4.    ;1
+271;Bar code read failure at lane 3, position 11.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 3, position 5.    ;1
+271;Bar code read failure at lane 1, position 13.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 3, position 6.    ;1
+271;Bar code read failure at lane 3, position 10.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 3, position 8.    ;1
+271;Bar code read failure at lane 3, position 8.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 4, position 1.    ;2
+271;Bar code read failure at lane 3, position 6.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 4, position 10.    ;1
+271;Bar code read failure at lane 3, position 5.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 4, position 12.    ;1
+271;Bar code read failure at lane 6, position 6.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 4, position 14.    ;1
+271;Bar code read failure at lane 3, position 2.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 4, position 16.    ;1
+271;Bar code read failure at lane 3, position 1.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 4, position 2.    ;1
+271;Bar code read failure at lane 3, position 12.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 4, position 6.    ;1
+271;Bar code read failure at lane 6, position 9.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 4, position 7.    ;1
+271;Bar code read failure at lane 2, position 2.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 4, position 8.    ;1
+271;Bar code read failure at lane 6, position 7.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 5, position 1.    ;2
+271;Bar code read failure at lane 5, position 1.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 5, position 10.    ;1
+271;Bar code read failure at lane 4, position 10.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 5, position 11.    ;1
+271;Bar code read failure at lane 4, position 6.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 5, position 14.    ;1
+271;Bar code read failure at lane 4, position 1.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 5, position 15.    ;1
+271;Bar code read failure at lane 4, position 2.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 5, position 16.    ;1
+271;Bar code read failure at lane 2, position 8.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 5, position 5.    ;1
+271;Bar code read failure at lane 5, position 14.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 5, position 6.    ;1
+271;Bar code read failure at lane 6, position 1.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 5, position 7.    ;1
+271;Bar code read failure at lane 4, position 16.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 5, position 8.    ;1
+271;Bar code read failure at lane 2, position 12.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 6, position 1.    ;2
+271;Bar code read failure at lane 6, position 4.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 6, position 2.    ;1
+271;Bar code read failure at lane 1, position 4.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 6, position 4.    ;1
+271;Bar code read failure at lane 1, position 9.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 6, position 6.    ;1
+271;Bar code read failure at lane 6, position 8.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 6, position 7.    ;1
+271;Bar code read failure at lane 4, position 8.    ;4/28/2021 5:43:12 PM;;;;Bar code read failure at lane 6, position 8.    ;1
+271;Bar code read failure at lane 5, position 1.    ;5/25/2021 8:00:10 PM;;;;Bar code read failure at lane 6, position 9.    ;1
+271;Barcode read failure at lane 2, position 11.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 1, position 1.    ;9
+271;Barcode read failure at lane 2, position 12.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 1, position 10.    ;8
+271;Barcode read failure at lane 2, position 13.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 1, position 11.    ;8
+271;Barcode read failure at lane 2, position 14.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 1, position 12.    ;8
+271;Barcode read failure at lane 2, position 15.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 1, position 13.    ;8
+271;Barcode read failure at lane 3, position 3.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 1, position 14.    ;9
+271;Barcode read failure at lane 3, position 14.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 1, position 15.    ;9
+271;Barcode read failure at lane 3, position 1.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 1, position 16.    ;9
+271;Barcode read failure at lane 2, position 10.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 1, position 2.    ;8
+271;Barcode read failure at lane 1, position 3.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 1, position 3.    ;8
+271;Barcode read failure at lane 2, position 16.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 1, position 4.    ;9
+271;Barcode read failure at lane 2, position 9.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 1, position 5.    ;8
+271;Barcode read failure at lane 3, position 4.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 1, position 6.    ;8
+271;Barcode read failure at lane 5, position 6.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 1, position 7.    ;8
+271;Barcode read failure at lane 1, position 6.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 1, position 8.    ;8
+271;Barcode read failure at lane 2, position 6.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 1, position 9.    ;8
+271;Barcode read failure at lane 1, position 1.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 11, position 1.    ;1
+271;Barcode read failure at lane 3, position 10.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 11, position 10.    ;1
+271;Barcode read failure at lane 1, position 4.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 11, position 11.    ;1
+271;Barcode read failure at lane 1, position 5.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 11, position 12.    ;1
+271;Barcode read failure at lane 1, position 7.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 11, position 13.    ;1
+271;Barcode read failure at lane 1, position 9.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 11, position 2.    ;1
+271;Barcode read failure at lane 1, position 8.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 11, position 3.    ;1
+271;Barcode read failure at lane 1, position 2.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 11, position 4.    ;1
+271;Barcode read failure at lane 6, position 1.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 11, position 5.    ;1
+271;Barcode read failure at lane 1, position 10.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 11, position 6.    ;1
+271;Barcode read failure at lane 1, position 3.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 11, position 7.    ;1
+271;Barcode read failure at lane 1, position 14.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 11, position 8.    ;1
+271;Barcode read failure at lane 3, position 3.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 11, position 9.    ;1
+271;Barcode read failure at lane 6, position 13.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 2, position 1.    ;8
+271;Barcode read failure at lane 2, position 7.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 2, position 10.    ;8
+271;Barcode read failure at lane 1, position 11.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 2, position 11.    ;8
+271;Barcode read failure at lane 2, position 8.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 2, position 12.    ;8
+271;Barcode read failure at lane 1, position 9.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 2, position 13.    ;8
+271;Barcode read failure at lane 1, position 8.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 2, position 14.    ;8
+271;Barcode read failure at lane 1, position 7.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 2, position 15.    ;8
+271;Barcode read failure at lane 1, position 6.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 2, position 16.    ;8
+271;Barcode read failure at lane 3, position 8.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 2, position 2.    ;8
+271;Barcode read failure at lane 1, position 4.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 2, position 3.    ;8
+271;Barcode read failure at lane 3, position 5.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 2, position 4.    ;8
+271;Barcode read failure at lane 1, position 2.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 2, position 5.    ;8
+271;Barcode read failure at lane 1, position 1.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 2, position 6.    ;8
+271;Barcode read failure at lane 1, position 12.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 2, position 7.    ;8
+271;Barcode read failure at lane 3, position 2.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 2, position 8.    ;8
+271;Barcode read failure at lane 6, position 13.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 2, position 9.    ;8
+271;Barcode read failure at lane 3, position 12.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 3, position 1.    ;12
+271;Barcode read failure at lane 5, position 8.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 3, position 10.    ;10
+271;Barcode read failure at lane 3, position 9.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 3, position 11.    ;10
+271;Barcode read failure at lane 1, position 13.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 3, position 12.    ;10
+271;Barcode read failure at lane 3, position 7.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 3, position 13.    ;10
+271;Barcode read failure at lane 3, position 6.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 3, position 14.    ;10
+271;Barcode read failure at lane 1, position 5.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 3, position 15.    ;10
+271;Barcode read failure at lane 5, position 7.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 3, position 16.    ;10
+271;Barcode read failure at lane 3, position 5.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 3, position 2.    ;10
+271;Barcode read failure at lane 3, position 6.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 3, position 3.    ;10
+271;Barcode read failure at lane 4, position 3.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 3, position 4.    ;10
+271;Barcode read failure at lane 3, position 8.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 3, position 5.    ;10
+271;Barcode read failure at lane 4, position 2.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 3, position 6.    ;10
+271;Barcode read failure at lane 2, position 11.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 3, position 7.    ;10
+271;Barcode read failure at lane 3, position 10.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 3, position 8.    ;10
+271;Barcode read failure at lane 3, position 11.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 3, position 9.    ;10
+271;Barcode read failure at lane 3, position 12.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 1.    ;10
+271;Barcode read failure at lane 3, position 13.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 10.    ;10
+271;Barcode read failure at lane 3, position 14.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 11.    ;10
+271;Barcode read failure at lane 4, position 4.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 12.    ;10
+271;Barcode read failure at lane 3, position 16.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 13.    ;10
+271;Barcode read failure at lane 3, position 2.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 14.    ;10
+271;Barcode read failure at lane 3, position 7.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 15.    ;10
+271;Barcode read failure at lane 2, position 9.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 16.    ;10
+271;Barcode read failure at lane 2, position 2.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 2.    ;10
+271;Barcode read failure at lane 1, position 12.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 3.    ;10
+271;Barcode read failure at lane 1, position 13.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 4.    ;10
+271;Barcode read failure at lane 1, position 14.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 5.    ;10
+271;Barcode read failure at lane 1, position 15.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 6.    ;10
+271;Barcode read failure at lane 4, position 7.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 7.    ;10
+271;Barcode read failure at lane 4, position 8.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 8.    ;10
+271;Barcode read failure at lane 2, position 12.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 4, position 9.    ;10
+271;Barcode read failure at lane 2, position 10.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 1.    ;11
+271;Barcode read failure at lane 3, position 15.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 10.    ;10
+271;Barcode read failure at lane 5, position 14.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 11.    ;10
+271;Barcode read failure at lane 6, position 11.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 12.    ;10
+271;Barcode read failure at lane 6, position 10.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 13.    ;10
+271;Barcode read failure at lane 6, position 9.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 14.    ;10
+271;Barcode read failure at lane 6, position 8.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 15.    ;10
+271;Barcode read failure at lane 6, position 7.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 16.    ;10
+271;Barcode read failure at lane 6, position 6.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 2.    ;10
+271;Barcode read failure at lane 6, position 5.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 3.    ;10
+271;Barcode read failure at lane 6, position 4.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 4.    ;10
+271;Barcode read failure at lane 5, position 8.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 5.    ;10
+271;Barcode read failure at lane 6, position 2.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 6.    ;10
+271;Barcode read failure at lane 4, position 1.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 7.    ;10
+271;Barcode read failure at lane 3, position 4.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 8.    ;10
+271;Barcode read failure at lane 5, position 15.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 5, position 9.    ;10
+271;Barcode read failure at lane 6, position 9.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 6, position 1.    ;11
+271;Barcode read failure at lane 5, position 13.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 6, position 10.    ;9
+271;Barcode read failure at lane 5, position 12.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 6, position 11.    ;9
+271;Barcode read failure at lane 5, position 11.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 6, position 12.    ;9
+271;Barcode read failure at lane 5, position 10.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 6, position 13.    ;9
+271;Barcode read failure at lane 2, position 14.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 6, position 2.    ;9
+271;Barcode read failure at lane 6, position 3.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 6, position 3.    ;9
+271;Barcode read failure at lane 3, position 9.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 6, position 4.    ;9
+271;Barcode read failure at lane 2, position 15.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 6, position 5.    ;9
+271;Barcode read failure at lane 2, position 16.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 6, position 6.    ;9
+271;Barcode read failure at lane 3, position 1.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 6, position 7.    ;9
+271;Barcode read failure at lane 1, position 15.    ;6/25/2021 5:31:12 PM;;;;Barcode read failure at lane 6, position 8.    ;9
+271;Barcode read failure at lane 6, position 12.    ;6/25/2021 5:29:40 PM;;;;Barcode read failure at lane 6, position 9.    ;9
+271;Barcode read failure at lane 5, position 16.    ;6/25/2021 5:29:40 PM;;;;(blank);
+271;Barcode read failure at lane 2, position 14.    ;6/25/2021 5:32:45 PM;;;;Grand Total;928
+271;Barcode read failure at lane 1, position 12.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 15.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 9.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 8.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 7.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 6.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 5.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 4.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 3.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 2.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 5.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 6, position 7.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 2, position 6.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 3.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 13.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 12.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 11.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 10.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 9.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 8.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 11.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 1.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 6, position 9.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 6, position 10.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 6, position 11.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 16.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 16.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 10.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 9.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 8.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 6.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 4.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 3.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 2.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 14.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 7.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 4.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 3.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 1.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 1.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 2.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 15.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 14.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 13.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 12.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 10.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 7.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 8.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 7.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 6.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 5.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 4.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 9.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 2.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 12.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 6, position 12.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 6, position 8.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 2, position 13.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 6, position 6.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 6, position 5.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 6, position 4.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 5, position 9.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 6, position 2.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 5, position 7.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 5, position 16.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 5, position 15.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 6, position 10.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 5, position 13.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 6, position 11.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 5, position 11.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 3, position 11.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 5, position 10.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 3, position 15.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 6, position 3.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 1, position 10.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 3, position 13.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 2, position 5.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 2, position 4.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 2, position 3.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 2, position 2.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 2, position 1.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 5, position 14.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 4, position 11.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 1, position 16.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 6, position 8.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 4.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 4, position 13.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 4, position 14.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 4, position 15.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 4, position 16.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 5, position 1.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 4, position 12.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 5, position 3.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 4, position 7.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 3, position 11.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 2.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 6, position 13.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 4, position 10.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 4, position 8.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 4, position 6.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 4, position 5.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 4, position 4.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 4, position 3.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 4, position 2.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 4, position 1.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 3, position 16.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 4, position 9.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 6, position 1.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 6, position 12.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 5, position 5.    ;6/25/2021 5:31:12 PM;;;;;
+271;Barcode read failure at lane 5, position 2.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 1.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 3, position 9.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 3, position 10.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 3, position 11.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 6.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 3, position 13.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 2.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 3, position 15.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 3, position 16.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 1.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 2.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 3, position 7.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 4.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 3, position 6.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 3, position 12.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 9.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 3, position 2.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 3, position 1.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 16.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 15.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 14.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 13.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 12.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 11.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 16.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 3.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 1.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 9.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 1, position 10.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 1, position 12.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 1, position 1.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 1, position 2.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 1, position 11.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 1, position 10.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 7.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 2.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 3.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 4.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 3, position 8.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 6.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 8.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 14.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 9.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 11.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 12.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 13.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 8.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 5, position 4.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 3, position 3.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 3, position 14.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 3, position 4.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 3, position 5.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 5.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 6, position 6.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 8.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 9.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 10.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 11.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 12.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 13.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 6, position 13.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 6, position 1.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 6, position 11.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 6, position 2.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 6, position 9.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 15.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 6, position 7.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 5, position 3.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 6, position 5.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 6, position 4.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 6, position 12.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 4.    ;6/22/2021 2:25:16 PM;;;;;
+271;Barcode read failure at lane 1, position 1.    ;6/21/2021 1:51:00 PM;;;;;
+271;Bar code read failure at lane 6, position 1.    ;5/31/2021 8:22:38 PM;;;;;
+271;Bar code read failure at lane 1, position 14.    ;5/31/2021 8:22:38 PM;;;;;
+271;Bar code read failure at lane 1, position 15.    ;5/31/2021 8:22:38 PM;;;;;
+271;Bar code read failure at lane 1, position 16.    ;5/31/2021 8:22:38 PM;;;;;
+271;Barcode read failure at lane 4, position 8.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 11.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 6, position 8.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 5, position 15.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 1, position 6.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 7.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 6.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 5.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 4.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 3.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 7.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 10.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 5, position 10.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 14.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 15.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 6, position 10.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 5, position 16.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 5, position 12.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 5, position 14.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 5, position 13.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 5, position 1.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 5, position 11.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 6, position 3.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 5, position 9.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 5, position 8.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 5, position 7.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 5, position 6.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 5, position 5.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 16.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 2, position 1.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 5.    ;6/25/2021 5:26:13 PM;;;;;
+271;Barcode read failure at lane 4, position 4.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 1.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 16.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 15.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 14.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 13.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 12.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 11.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 10.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 5.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 8.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 6.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 6, position 11.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 5.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 7.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 3.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 2.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 1.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 3, position 16.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 3, position 15.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 1, position 15.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 3, position 13.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 9.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 6, position 1.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 6, position 13.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 1, position 8.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 6.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 1.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 2, position 7.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 2, position 6.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 2, position 5.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 2, position 4.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 2, position 3.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 2, position 1.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 5, position 9.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 4, position 13.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 5, position 6.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 5, position 5.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 5, position 4.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 5, position 2.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 2.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 5, position 3.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 16.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 1, position 11.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 4, position 14.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 1, position 16.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 4, position 12.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 4, position 11.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 4, position 10.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 4, position 9.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 4, position 5.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 4, position 6.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 4, position 15.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 6, position 10.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 3.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 3, position 6.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 7.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 8.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 9.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 10.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 11.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 12.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 13.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 3, position 7.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 1, position 14.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 14.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 3, position 10.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 6, position 12.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 3, position 8.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 4.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 3, position 5.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 3, position 4.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 3, position 3.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 3, position 2.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 3, position 1.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 16.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 15.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 1, position 3.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 1, position 4.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 1, position 5.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 8.    ;6/25/2021 5:29:40 PM;;;;;
+271;Barcode read failure at lane 3, position 9.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 12.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 6, position 9.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 6, position 8.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 6, position 7.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 6, position 6.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 6, position 5.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 6, position 4.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 4.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 6, position 2.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 3, position 12.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 16.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 15.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 6.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 13.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 5.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 11.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 10.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 9.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 8.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 7.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 6, position 3.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 2.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 1, position 13.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 3, position 14.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 1, position 16.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 2, position 3.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 1, position 7.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 5, position 14.    ;6/25/2021 5:27:55 PM;;;;;
+271;Barcode read failure at lane 4, position 2.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 3, position 2.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 4, position 11.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 3, position 4.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 3, position 6.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 3, position 7.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 3, position 8.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 4, position 6.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 3, position 10.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 3, position 10.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 12.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 3, position 13.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 6, position 6.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 15.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 6, position 6.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 3, position 3.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 4, position 4.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 4, position 3.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 4, position 1.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 3, position 16.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 13.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 6, position 12.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 6, position 10.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 5, position 14.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 6, position 8.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 1.    ;6/25/2021 5:40:06 PM;;;;;
+271;Barcode read failure at lane 3, position 14.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 6, position 8.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 12.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 4, position 13.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 4, position 12.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 6.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 4, position 10.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 4, position 7.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 4, position 16.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 6, position 4.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 6, position 13.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 6, position 12.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 6, position 11.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 3, position 1.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 6, position 9.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 3, position 5.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 6, position 7.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 10.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 6, position 5.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 4, position 9.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 6, position 3.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 6, position 2.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 6, position 1.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 16.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 15.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 14.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 13.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 6, position 3.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 6, position 10.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 4, position 2.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 4, position 13.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 5, position 11.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 8.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 5, position 8.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 5, position 7.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 5, position 6.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 5, position 5.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 5, position 4.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 4, position 6.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 4, position 7.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 4, position 8.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 6, position 7.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 4, position 10.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 2.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 4, position 12.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 1.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 4, position 3.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 4, position 4.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 4, position 5.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 13.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 10.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 14.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 15.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 16.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 4, position 11.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 4, position 9.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 5, position 2.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 6, position 4.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 6, position 2.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 6, position 13.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 5, position 12.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 6, position 11.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 5, position 16.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 6, position 1.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 6, position 5.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 6, position 9.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 5, position 15.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 5, position 3.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 4, position 14.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 4, position 1.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 12.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 6.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 5.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 4.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 3.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 5, position 9.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 9.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 4, position 15.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 7.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 3, position 11.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 5, position 1.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 4, position 16.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 5, position 1.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 10.    ;6/25/2021 5:41:49 PM;;;;;
+271;Barcode read failure at lane 1, position 15.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 5.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 4.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 3.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 2.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 10.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 1, position 10.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 2, position 6.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 3, position 15.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 2, position 4.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 2, position 3.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 2, position 2.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 15.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 1, position 16.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 1.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 1, position 14.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 1, position 13.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 3, position 16.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 1, position 11.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 2, position 7.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 1, position 9.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 1, position 8.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 1, position 7.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 1, position 6.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 1, position 5.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 1, position 4.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 2, position 1.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 16.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 15.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 3.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 9.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 13.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 12.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 11.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 10.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 14.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 8.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 7.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 6.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 6.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 2.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 7.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 5.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 8.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 16.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 15.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 14.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 13.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 12.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 11.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 3, position 13.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 9.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 1.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 1, position 1.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 4.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 11, position 1.    ;6/29/2021 8:08:44 AM;;;;;
+271;Barcode read failure at lane 1, position 3.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 6, position 1.    ;6/30/2021 10:41:55 PM;;;;;
+271;Barcode read failure at lane 11, position 6.    ;6/29/2021 8:08:44 AM;;;;;
+271;Barcode read failure at lane 11, position 2.    ;6/29/2021 8:08:44 AM;;;;;
+271;Barcode read failure at lane 11, position 13.    ;6/29/2021 8:08:44 AM;;;;;
+271;Barcode read failure at lane 11, position 12.    ;6/29/2021 8:08:44 AM;;;;;
+271;Barcode read failure at lane 11, position 11.    ;6/29/2021 8:08:44 AM;;;;;
+271;Barcode read failure at lane 11, position 10.    ;6/29/2021 8:08:44 AM;;;;;
+271;Barcode read failure at lane 11, position 9.    ;6/29/2021 8:08:44 AM;;;;;
+271;Barcode read failure at lane 11, position 8.    ;6/29/2021 8:08:44 AM;;;;;
+271;Barcode read failure at lane 11, position 7.    ;6/29/2021 8:08:44 AM;;;;;
+271;Barcode read failure at lane 1, position 14.    ;8/23/2021 6:17:56 PM;;;;;
+271;Barcode read failure at lane 11, position 3.    ;6/29/2021 8:08:44 AM;;;;;
+271;Barcode read failure at lane 1, position 15.    ;8/23/2021 6:17:56 PM;;;;;
+271;Barcode read failure at lane 11, position 5.    ;6/29/2021 8:08:44 AM;;;;;
+271;Barcode read failure at lane 6, position 1.    ;6/25/2021 5:55:19 PM;;;;;
+271;Barcode read failure at lane 5, position 8.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 4, position 14.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 4, position 5.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 9.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 7.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 5.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 4.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 3.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 2.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 3, position 11.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 11, position 4.    ;6/29/2021 8:08:44 AM;;;;;
+271;Barcode read failure at lane 2, position 8.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 11.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 1, position 12.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 3, position 3.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 3, position 14.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 3, position 12.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 3, position 11.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 3, position 10.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 3, position 9.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 3, position 8.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 3, position 7.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 3, position 6.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 5, position 1.    ;07/09/2021 16:35;;;;;
+271;Barcode read failure at lane 3, position 4.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 1, position 2.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 3, position 2.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 3, position 1.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 2, position 16.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 2, position 15.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 2, position 14.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 2, position 13.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 2, position 12.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 2, position 11.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 2, position 10.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 2, position 9.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 3, position 5.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 1, position 16.    ;8/23/2021 6:17:56 PM;;;;;
+271;Barcode read failure at lane 2, position 5.    ;8/28/2021 2:31:27 PM;;;;;
+271;Barcode read failure at lane 4, position 3.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 14.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 1, position 15.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 1, position 16.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 2, position 1.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 2, position 2.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 6.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 6, position 7.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 13.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 14.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 15.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 16.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 8.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 2.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 8.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 5, position 1.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 4, position 5.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 4, position 16.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 2, position 3.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 7.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 4, position 8.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 4, position 9.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 4, position 10.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 4, position 11.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 4, position 12.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 4, position 13.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 4, position 1.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 15.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 9.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 10.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 11.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 12.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 16.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 2.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 1, position 13.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 1, position 1.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 1, position 2.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 1, position 3.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 1, position 5.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 2, position 7.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 15.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 12.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 5, position 16.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 6, position 2.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 6, position 4.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 6, position 5.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 6, position 6.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 12.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 1, position 6.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 1, position 7.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 1, position 8.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 1, position 9.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 1, position 10.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 4.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 13.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 16.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 14.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 6, position 12.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 6, position 11.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 6, position 10.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 6, position 9.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 6, position 8.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 6, position 7.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 6, position 6.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 6, position 5.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 6, position 4.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 5, position 6.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 12.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 5, position 7.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 1.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 5, position 15.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 5, position 14.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 5, position 13.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 5, position 12.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 5, position 11.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 5, position 10.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 5, position 9.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 13.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 6, position 3.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 1, position 11.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 1, position 4.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 2, position 5.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 6, position 2.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 13.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 6, position 1.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 5, position 5.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 4, position 10.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 1.    ;6/25/2021 5:38:23 PM;;;;;
+271;Barcode read failure at lane 5, position 5.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 9.    ;6/25/2021 5:43:35 PM;;;;;
+271;Barcode read failure at lane 5, position 4.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 5, position 3.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 5, position 2.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 5, position 1.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 16.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 6, position 1.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 14.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 11.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 6, position 13.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 11.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 5, position 8.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 9.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 8.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 7.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 6.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 5.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 2, position 4.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 4.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 3.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 2.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 15.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 1, position 6.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 4, position 15.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 4, position 16.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 1.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 2.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 3.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 4.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 6, position 12.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 4, position 12.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 11.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 7.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 1, position 10.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 1, position 9.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 6, position 13.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 1, position 7.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 6, position 7.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 6, position 3.    ;6/25/2021 5:32:45 PM;;;;;
+271;Barcode read failure at lane 3, position 7.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 5.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 6.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 7.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 8.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 9.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 1, position 12.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 1, position 13.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 13.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 6, position 2.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 14.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 15.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 1, position 8.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 12.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 6, position 6.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 6, position 5.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 5.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 6, position 4.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 6, position 3.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 6.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 7.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 8.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 4, position 10.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 10.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 5.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 6, position 1.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 16.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 6, position 8.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 6, position 10.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 12.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 4, position 11.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 4, position 9.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 4, position 8.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 4, position 7.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 15.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 6, position 9.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 11.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 6, position 11.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 4, position 14.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 9.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 14.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 5, position 13.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 4, position 13.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 4, position 6.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 10.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 2, position 3.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 2.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 1.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 1, position 3.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 16.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 1, position 5.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 10.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 1, position 16.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 1, position 15.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 1, position 14.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 10.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 14.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 2, position 4.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 9.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 1, position 4.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 11.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 2, position 12.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 2, position 13.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 2, position 14.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 2, position 15.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 2, position 16.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 1.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 15.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 3.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 2, position 6.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 5.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 6.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 3, position 4.    ;6/25/2021 5:34:42 PM;;;;;
+271;Barcode read failure at lane 4, position 1.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 8.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 1, position 1.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 4, position 5.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 4, position 4.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 6.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 4, position 3.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 4, position 2.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 2.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 4.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 1.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 3, position 3.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 13.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 1, position 2.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 9.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 1, position 11.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 11.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 12.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 16.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 14.    ;6/25/2021 5:36:20 PM;;;;;
+271;Barcode read failure at lane 2, position 15.    ;6/25/2021 5:36:20 PM;;;;;
